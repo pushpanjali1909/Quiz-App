@@ -14,6 +14,14 @@ Users can answer multiple-choice questions, receive instant feedback, and view t
 👉 [Click here to try the Quiz-App](https://pushpanjali1909.github.io/Quiz-App/)
 
 ---
+---
+
+## 📸 Screenshot
+
+![Quiz App Screenshot](https://raw.githubusercontent.com/pushpanjali1909/Quiz-App/main/screenshot.png)
+ 
+
+---
 
 ## ✨ Features
 
@@ -42,9 +50,9 @@ Users can answer multiple-choice questions, receive instant feedback, and view t
    ```bash
    git clone https://github.com/pushpanjali1909/Quiz-App.git
 2. **Navigate into the project folder
-     cd Quiz-App
+          cd Quiz-App
 3. **Run the project
-    Open index.html in your browser.
+          Open index.html in your browser.
 
 
 🎮 How to Play
