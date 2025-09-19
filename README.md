@@ -58,45 +58,38 @@ Users can answer multiple-choice questions, receive instant feedback, and view t
          Open index.html in your browser. 
 
 
-🎮 How to Play
+## 🎮 How to Play
 
-Select the correct option for each question.
+- 🎯 Select the **correct option** for each question.  
+- ⚡ Get **instant feedback** (✔️ Correct / ❌ Incorrect).  
+- 🏆 At the end, your **final score** will be displayed.  
 
-Get instant feedback (✔️ Correct / ❌ Incorrect).
+---
 
-At the end, your final score will be displayed.
+## 🔮 Future Enhancements
 
+- ⏱️ Add **timer** for each question  
+- 🔄 **Shuffle** questions & options dynamically  
+- 💾 Save **high scores** in local storage  
+- 📊 Show **progress bar / leaderboard**  
+- 📱 Improve **mobile-friendly layout**  
 
+---
 
-🔮 Future Enhancements
+## 🤝 Contributing
 
-  ⏱️ Add timer for each question
+Contributions are welcome! 🎉 If you’d like to add more features, fix bugs, or improve the UI:
 
-  🔄 Shuffle questions & options dynamically
+1. 🍴 Fork this repository  
+2. 🌱 Create a new branch (`feature-xyz`)  
+3. 💻 Commit your changes  
+4. 🚀 Open a Pull Request  
 
-  💾 Save high scores in local storage
+---
 
-  📊 Progress bar / leaderboard
+## 📜 License
 
-  📱 Better mobile-friendly layout
-
-
-🤝 Contributing
-
-Contributions are welcome!
-If you’d like to add more features, fix bugs, or improve UI:
-
-Fork this repository
-
-Create a new branch (feature-xyz)
-
-Commit changes
-
-Open a pull request 🚀
-
-📜 License
-
-This project is open-source. You may use and modify it freely.
+This project is **open-source**. You may use and modify it freely.  
 
  
  
