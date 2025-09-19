@@ -48,11 +48,14 @@ Users can answer multiple-choice questions, receive instant feedback, and view t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/pushpanjali1909/Quiz-App.git
-2. **Navigate into the project folder
-          cd Quiz-App
-3. **Run the project
-          Open index.html in your browser.
+          git clone https://github.com/pushpanjali1909/Quiz-App.git
+2. **Navigate into the project folder**
+   
+         cd Quiz-App
+
+3. **Run the project**
+   
+         Open index.html in your browser. 
 
 
 🎮 How to Play
@@ -97,5 +100,5 @@ This project is open-source. You may use and modify it freely.
 
  
  
- 💡 Made with ❤️ by Pushpanjali
+ ### 💡 Made with ❤️ by [Pushpanjali](https://github.com/pushpanjali1909)
 
